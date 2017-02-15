@@ -1,0 +1,16 @@
+package listner;
+
+import org.testng.annotations.Test;
+
+public class Test12344 {
+
+	public static void main(String[] args) {
+	
+		@Test(dataProvider = "dp")
+		public void f(Integer n, String s) {
+		System.out.println("Inside Data Provider"); 
+		   
+
+	}}
+
+}
