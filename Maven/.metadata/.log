@@ -1,0 +1,71 @@
+!SESSION 2016-09-16 16:43:46.606 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-09-16 16:45:14.610
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-09-16 16:45:14.612
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\narendra'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-16 16:45:14.917
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-16 16:45:14.924
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-16 16:45:16.099
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-16 16:45:16.103
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-16 17:00:55.760
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-16 17:00:55.765
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:01:10.909
+!MESSAGE Project read error
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:01:10.913
+!MESSAGE Project read error
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:26:13.286
+!MESSAGE Could not read pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:26:13.428
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM E:\Maven\My_FrameWork\pom.xml: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</properties>\r\n<?xml ... @16:7)  @ line 16, column 7
+ for project  at E:\Maven\My_FrameWork\pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:26:13.432
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM E:\Maven\My_FrameWork\pom.xml: processing instruction can not have PITarget with reserveld xml name (position: END_TAG seen ...</properties>\r\n<?xml ... @16:7)  @ line 16, column 7
+ for project  at E:\Maven\My_FrameWork\pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:26:13.891
+!MESSAGE Project read error
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:26:13.894
+!MESSAGE Project read error
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:30:41.698
+!MESSAGE Project read error
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-16 17:30:41.702
+!MESSAGE Project read error
