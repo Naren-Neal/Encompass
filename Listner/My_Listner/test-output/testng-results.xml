@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16571" started-at="2016-09-20T18:21:03Z" finished-at="2016-09-20T18:21:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16571" started-at="2016-09-20T18:21:03Z" finished-at="2016-09-20T18:21:19Z">
+      <class name="listner.First_Test">
+        <test-method status="PASS" signature="verifySeleniumBlog()[pri:0, instance:listner.First_Test@c038203]" name="verifySeleniumBlog" duration-ms="16554" started-at="2016-09-20T11:21:03Z" finished-at="2016-09-20T11:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySeleniumBlog -->
+      </class> <!-- listner.First_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
